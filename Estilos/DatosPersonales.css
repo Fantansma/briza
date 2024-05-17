@@ -1,0 +1,214 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+img{
+    height: 220px;
+}
+
+body{
+    background: url(niebla.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+section{
+    padding: 30px;
+}
+
+.titulo{
+    text-align: center;
+    font-size: 50px;
+    text-transform: uppercase;
+}
+.datos h1 {
+    text-align: center;
+    font-size: 30px;   
+    position: relative;
+    top: 50px;
+    margin-left: 180px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: uppercase;
+}
+
+.datos ul li{
+    margin-left: 782px;
+    font-size: 30px;
+    position: relative;
+    top: 150px;
+}
+
+
+.imagen{
+    margin-left: 490px;
+    margin-bottom: 150px;
+}
+.imagen img{
+    border: 10px solid gold;
+    border-radius: 50px;
+}
+
+.Descripcion{
+    margin-left: 782px;   
+    font-size: 30px;
+    position: relative;
+    bottom: 130px;
+}
+
+.Descripcion h1 {
+    margin-bottom:25px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: uppercase;
+
+}
+
+.valores{
+    margin-left: 782px;
+    font-size: 30px;
+    position: relative;
+    bottom: 45px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: uppercase;
+}
+.valores ul li{
+    margin-bottom: 10px;
+}
+
+.sociales{
+    margin-left: 782px;
+    font-size: 30px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: uppercase;
+}
+.sociales h1 {
+    margin-bottom: 25px;
+}
+.sociales ul li{
+    margin-bottom: 30px;
+    list-style: none;
+}
+
+.sociales ul li a{
+    text-decoration:none;
+    color: brown;
+    text-decoration: solid;
+    border: 5px solid slateblue;
+    border-radius: 15px;
+}
+
+.student{
+    margin-left: 770px;
+    font-size: 30px;
+    margin-top: 50px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: uppercase;
+
+}
+
+.Unidad{   
+    margin-bottom: 50px;
+}
+
+.Unidad table tr td {
+    padding: 50px;  
+    text-transform: uppercase;  
+    background-color: azure;
+}
+
+.Unidad table {
+    border: 5px solid seagreen;
+}
+
+.Unidad h1{
+    margin-bottom: 20px;
+    font-size: 30px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: uppercase;
+}
+
+
+
+.Lunes h1{
+    margin-bottom: 30px;
+    font-size: 30px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: uppercase;
+}
+
+.Lunes table{
+    border: 5px solid green;
+    width:50px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: uppercase;
+}
+
+.Lunes table tr td{
+    padding: 20px;
+    background-color: azure;
+}
+
+.Martes table{
+    border: 5px solid green;
+    width:20%;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: uppercase;
+}
+
+.Martes table tr td{
+    padding: 20px;
+    background-color: azure;
+}
+
+.Miercoles table{
+    border: 5px solid green;
+    width:16.1%;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: uppercase;
+}
+
+.Miercoles table tr td{
+    padding: 20px;
+    background-color: azure;
+}
+
+.Jueves table{
+    border: 5px solid green;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: uppercase;
+    width: 6%;
+}
+
+
+
+.Jueves table tr td{
+    padding: 20px;
+    background-color: azure;
+}
+
+.Viernes table{
+    border: 5px solid green;
+    width:16.5%;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: uppercase;
+}
+
+.Viernes  table tr td{
+    padding: 20px;
+    background-color: azure;
+}
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
